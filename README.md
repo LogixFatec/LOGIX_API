@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![Equipe] <file:///C:/Users/Fatec/Desktop/ORGANOGRAMA.jpg>
+![Equipe] 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
