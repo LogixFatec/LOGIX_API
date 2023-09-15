@@ -44,11 +44,10 @@ Futuramente
 ![Equipe] 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
+Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação de municípios no ano de 2022.
+* Desenvolvimento de estrutura relacional de tabela com base nos dados disponibilizados;
+* Criação de um dashboard intuitivo para visualização dos dados apresentados;
+* Documentar todo o processo na plataforma GitHub e gestão do projeto desenvolvido no Jira Software de forma clara;
 * Desenvolver habilidades técnicas.
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
@@ -108,7 +107,7 @@ Requisitos funcionais
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI / Jira / Canvas
+- Power BI / Jira / Canva
   
 User stories
 
