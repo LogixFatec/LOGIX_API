@@ -64,8 +64,12 @@ Adicionar video e documentos nessa seção
   > Descreva aqui a parte do MVP referente a Sprint
 
  ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
+ > Excel;
+> PowerBI;
+> Canva;
+> Jira Software;
+> Github;
+> 
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
