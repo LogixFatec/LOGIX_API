@@ -118,6 +118,12 @@ User stories
 # Burndown
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
+## Sprint 0. Introdução
+- [x] Registro do chamado
+- [x] Gerenciamento do login dos membros nas plataformas
+- [x] Estruturação do GitHub
+- [x] Estruturação do Jira Software
+- [ ] Atribuição das tarefas
 
 ## Sprint 1. Concepção
 - [x] Defina o propósito do template;
