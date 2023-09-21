@@ -95,8 +95,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://github.com/LogixFatec/LOGIX_API/assets/144241887/4eb98623-5cc5-4eef-bf02-8083f38fcbbb)
+![sprint backlog]!(https://github.com/LogixFatec/LOGIX_API/assets/144241887/81d9f320-569d-4eb7-973f-e565436e5ed0)
 </div>
 
 Regras de Negócio
