@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![ORGANOGRAMA (2)](https://github.com/LogixFatec/LOGIX_API/assets/144241887/72f4c240-e111-49d1-82b9-3dfa828b1434 | width=100)
+![ORGANOGRAMA (2)](https://github.com/LogixFatec/LOGIX_API/assets/144241887/72f4c240-e111-49d1-82b9-3dfa828b1434)
 
 # Objetivo do Projeto
 Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação de municípios no ano de 2022.
@@ -57,7 +57,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 Adicionar video e documentos nessa seção
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc |width=100px])
 
 ## Tecnologias Utilizadas
   ### Produto 
