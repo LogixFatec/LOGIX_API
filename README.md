@@ -95,7 +95,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![sprint backlog]!![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/81d9f320-569d-4eb7-973f-e565436e5ed0)
+![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/81d9f320-569d-4eb7-973f-e565436e5ed0)
 </div>
 
 Regras de Negócio
