@@ -116,7 +116,7 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![sprint backlog]
 
 ## Sprint 0. Introdução
 - [x] Registro do chamado
