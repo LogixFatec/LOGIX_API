@@ -73,7 +73,7 @@ Adicionar video e documentos nessa seção
 > [Apresentação do sprint 0](canva.com/design/DAFu_OM8OWU/0_BdT6dktJ2FitG3d8embQ/edit)
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://logix0309.atlassian.net)
+- [Jira Software](https://logix0309.atlassian.net)
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
