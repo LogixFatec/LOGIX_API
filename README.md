@@ -73,7 +73,7 @@ Adicionar video e documentos nessa seção
 > [Apresentação do sprint 0](canva.com/design/DAFu_OM8OWU/0_BdT6dktJ2FitG3d8embQ/edit)
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
+- [Gestão de Projetos](https://logix0309.atlassian.net)
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
@@ -126,44 +126,15 @@ User stories
 - [ ] Atribuição das tarefas
 
 ## Sprint 1. Concepção
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
+
 ## Sprint 3 . Implementação
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
       
 ## Sprint 4. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
 
 
 # Competências desenvolvidas
