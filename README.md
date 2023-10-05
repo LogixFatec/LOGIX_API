@@ -120,7 +120,10 @@ User stories
 - [ ] Atribuição das tarefas
 
 ## Sprint 1. Concepção
-
+- [ ] Tabelas relacionais
+- [ ] Criação do dashboard
+- [ ] Início do tratamento de dados
+- [ ] Pesquisas sobre CIF&FOB
 
 ## Sprint 2. Desenvolvimento do Projeto
 
