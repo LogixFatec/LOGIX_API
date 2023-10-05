@@ -41,7 +41,9 @@ Futuramente
 
 
 # Equipe
-![ORGANOGRAMA (2)](![organograma](https://github.com/LogixFatec/LOGIX_API/assets/144241887/dee900db-8e16-451e-bbe7-f5a6c0eeef23)
+![ORGANOGRAMA (2)]![organograma](https://github.com/LogixFatec/LOGIX_API/assets/144241887/07d9f25f-c03a-486d-9fc2-021aed0fd0ab)
+
+)
 )
 
 # Objetivo do Projeto
