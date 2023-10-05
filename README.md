@@ -117,7 +117,7 @@ User stories
 - [x] Gerenciamento do login dos membros nas plataformas
 - [x] Estruturação do GitHub
 - [x] Estruturação do Jira Software
-- [ ] Atribuição das tarefas
+- [X] Atribuição das tarefas
 
 ## Sprint 1. Concepção
 - [X] Tabelas relacionais
