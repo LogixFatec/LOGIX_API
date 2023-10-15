@@ -113,7 +113,7 @@ User stories
 - [X] Tabelas relacionais
 - [X] Criação do dashboard
 - [X] Início do tratamento de dados
-- [ ] Pesquisas sobre CIF&FOB
+- [X] Pesquisas sobre CIF&FOB
 
 ## Sprint 2. Desenvolvimento do Projeto
 
