@@ -29,16 +29,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 16/10/2023  | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 06/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
 # Equipe
 ![ORGANOGRAMA (2)](https://github.com/LogixFatec/LOGIX_API/assets/144241887/07d9f25f-c03a-486d-9fc2-021aed0fd0ab)
@@ -51,7 +42,7 @@ Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em d
 * Documentar todo o processo na plataforma GitHub e gestão do projeto desenvolvido no Jira Software de forma clara;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+# Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
