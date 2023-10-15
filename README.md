@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00 | 25/09/2023 | concluido| [Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12714675/RELATORIO.DE.API.docx) | 
-|01| 16/10/2023  | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01| 16/10/2023  | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 06/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -103,7 +103,7 @@ Requisitos funcionais
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
+- Usar tecnologias especifícas/apoio/tecnológicas 
 - Metodologias ágil
 - Power BI / Jira / Canva
   
