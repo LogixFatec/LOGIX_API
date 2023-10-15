@@ -121,8 +121,8 @@ User stories
 
 ## Sprint 1. Concepção
 - [X] Tabelas relacionais
-- [ ] Criação do dashboard
-- [ ] Início do tratamento de dados
+- [X] Criação do dashboard
+- [X] Início do tratamento de dados
 - [ ] Pesquisas sobre CIF&FOB
 
 ## Sprint 2. Desenvolvimento do Projeto
