@@ -79,6 +79,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
     
 ![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/81d9f320-569d-4eb7-973f-e565436e5ed0)
 </div>
+[SPRINT 1](https://github.com/LogixFatec/LOGIX_API/assets/144241887/0dfcfbd6-0973-44c2-b056-9d25584a31f8)
 
 Regras de Negócio
 - 
