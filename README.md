@@ -47,7 +47,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  https://github.com/LogixFatec/LOGIX_API/issues/11#issue-1957056528
 
  ### Tecnológias Específicas/Apoio
  > Excel;
