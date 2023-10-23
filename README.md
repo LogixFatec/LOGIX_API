@@ -47,7 +47,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
   ### Produto 
-  https://github.com/LogixFatec/LOGIX_API/issues/11#issue-1957056528
+ [EXPORTACAO](https://github.com/LogixFatec/LOGIX_API/assets/144241887/9d72f95b-983f-4ccc-87ce-531d344daa29)
 
  ### Tecnológias Específicas/Apoio
  > Excel;
