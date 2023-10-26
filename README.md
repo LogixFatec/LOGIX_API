@@ -74,8 +74,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto
-  
-<div align="center">
     
 ![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/0dfcfbd6-0973-44c2-b056-9d25584a31f8)
 
