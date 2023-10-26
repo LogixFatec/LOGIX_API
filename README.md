@@ -77,7 +77,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-</div>
 ![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/0dfcfbd6-0973-44c2-b056-9d25584a31f8)
 
 Regras de Negócio
