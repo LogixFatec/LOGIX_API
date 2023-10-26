@@ -110,7 +110,7 @@ User stories
 - [X] Pesquisas sobre CIF&FOB
 
 ## Sprint 2. Desenvolvimento do Projeto
-
+- [X] Registro de funcionamento do dashboard
 ## Sprint 3 . Implementação
 
       
