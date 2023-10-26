@@ -27,7 +27,8 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
 # Equipe
-(https://github.com/LogixFatec/LOGIX_API/assets/144241887/a7bb426e-b06b-43ef-8aed-b76ef206670f)
+   
+![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/a7bb426e-b06b-43ef-8aed-b76ef206670f)
 
 # Objetivo do Projeto
 Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação de municípios no ano de 2022.
