@@ -94,7 +94,8 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![sprint backlog]
+![sprint backlog](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5f1a6a0a-b5b4-4a09-bdca-4af6ce37409e)
+
 
 ## Sprint 0. Introdução
 - [x] Registro do chamado
