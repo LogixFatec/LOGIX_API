@@ -112,6 +112,8 @@ User stories
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [X] Registro de funcionamento do dashboard
+- [X] Pesquisa sobre as movimentações de cargas
+- [ ] 
 ## Sprint 3 . Implementação
 
       
