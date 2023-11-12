@@ -5,7 +5,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
@@ -71,7 +71,7 @@ Exemplos:
 
 ## Cronograma
 
-#### Cronograma das Sprints [Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
+#### Cronograma das Sprints [(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
 
 # Backlog do produto
     
