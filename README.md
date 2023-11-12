@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 16/10/2023  | concluído |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12910312/RELATORIO.DE.API.2.docx) | 
 |02| 13/11/2023 | concluído|[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329085/RELATORIO.DE.API.3.docx) | 
 |03| 27/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
-|Relatório do Projeto| 12/11/2023 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
+|Relatório do Projeto| 12/11/2023 | em progresso |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329099/RELATORIO.LOGIX.docx)  |
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
 # Equipe
