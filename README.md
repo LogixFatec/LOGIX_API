@@ -138,23 +138,31 @@ User stories
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+Computação;
+Ferramentas tecnológicas (PowerBI, Pacote Office);
+Gestão de Projetos (Jira Software; Análise SWOT, 5W2H);
+Análise de Dados;
+Atendimento ao cliente;
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Gestão de Projetos |☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| PowerBI | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Análise de Dados | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Atendimento ao Cliente | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
 ## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+Proatividade;
+Trabalho em equipe;
+Comunicação;
+Colaboração;
+Pensamento Crítico;
+Gerenciamento de tempo;
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -162,8 +170,8 @@ User stories
 | Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Trabalho em equipe | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
 
