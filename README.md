@@ -9,6 +9,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
+* [Sprints](#Sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -96,6 +97,7 @@ User stories
 # Burndown
 ![sprint backlog](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5f1a6a0a-b5b4-4a09-bdca-4af6ce37409e)
 
+# Sprints
 
 ## Sprint 0. Introdução
 - [x] Registro do chamado
