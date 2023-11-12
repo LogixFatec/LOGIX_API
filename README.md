@@ -68,11 +68,11 @@ Adicionar video e documentos nessa seção
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos:
 
-# Cronograma das Sprints
+# Backlog das Sprints
 
-## Cronograma
+## Backlog
 
-#### Cronograma das Sprints [(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
+#### Backlog das Sprints [(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
 
 # Backlog do produto
     
