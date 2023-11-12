@@ -71,7 +71,7 @@ Exemplos:
 
 ## Cronograma
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/LogixFatec/projects/3/views/1)
+#### Cronograma das Sprints [Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
 
 # Backlog do produto
     
