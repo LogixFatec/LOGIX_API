@@ -103,18 +103,28 @@ User stories
 - [x] Estruturação do GitHub
 - [x] Estruturação do Jira Software
 - [X] Atribuição das tarefas
+- [X] Criar organograma
+- [X] Estudar sobre análise SWOT e metodologia ágil
+- [X] Relatório
+- [X] Envio do e-mail de apresentação
 
 ## Sprint 1. Concepção
 - [X] Tabelas relacionais
 - [X] Criação do dashboard
 - [X] Início do tratamento de dados
 - [X] Pesquisas sobre CIF&FOB
+- [X] Relatório
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [X] Registro de funcionamento do dashboard
 - [X] Pesquisa sobre as movimentações de cargas
-- [X] Relatório do produto
-- [ ] 
+- [X] Relatório
+- [X] Estudar sobre MVP
+- [X] Selecionar 5 produtos
+- [X] Pesquisa sobre cadeia de abastecimento
+- [X] Pesquisa no site COMEX STAT
+- [X] Cadeias produtivas dos Estados
+- [X] Dashboard
    
 ## Sprint 3 . Implementação
 
