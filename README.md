@@ -7,7 +7,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
+* [Backlog das sprints](#Backlog-das-Sprints)
 * [Burndown](#Burndown)
 * [Sprints](#Sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
