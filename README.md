@@ -5,7 +5,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros das sprints](#Funcionalidades-e-registros-das-sprints)
 * [Backlog das Sprints](#Backlog-das-Sprints)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Burndown](#Burndown)
@@ -39,7 +39,7 @@ Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em d
 * Documentar todo o processo na plataforma GitHub e gestão do projeto desenvolvido no Jira Software de forma clara;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades e registros das sprints
 
 Apresentação das funcionalidades
 
@@ -63,9 +63,6 @@ Apresentação das funcionalidades
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
 - [Jira Software](https://logix0309.atlassian.net)
   
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos:
 
 # Backlog das Sprints
 
