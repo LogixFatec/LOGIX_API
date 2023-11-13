@@ -71,9 +71,15 @@ Apresentação das funcionalidades
 #### Backlog das Sprints [(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
 
 # Backlog do produto
-    
+
+ ## SPRINT 0
 ![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/f4963303-b986-4c59-8a20-48981633d4bf)
+
+ ## SPRINT 1
 ![backlogsprint1](https://github.com/LogixFatec/LOGIX_API/assets/144241887/998d1fb9-b40c-4d3b-aeea-9c4efde4ea6d)
+
+ ## SPRINT 2
+![backlogsprint2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/caa8af9b-7d27-4a28-9de9-0d3fb9b12a5a)
 
 Regras de Negócio
 - 
