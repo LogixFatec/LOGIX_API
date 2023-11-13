@@ -42,9 +42,8 @@ Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em d
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
+[Vídeo do Dashboard](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
 
 
 ## Tecnologias Utilizadas
