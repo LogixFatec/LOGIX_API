@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros das sprints](#Funcionalidades-e-registros-das-sprints)
-* [Backlog das Sprints](#Backlog-das-Sprints)
+* [Cronograma](#Cronograma)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Burndown](#Burndown)
 * [Sprints](#Sprints)
@@ -64,11 +64,9 @@ Apresentação das funcionalidades
 - [Jira Software](https://logix0309.atlassian.net)
   
 
-# Backlog das Sprints
+# Cronograma
 
-## Backlog
-
-#### Backlog das Sprints [(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
+[(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
 
 # Backlog do produto
 
