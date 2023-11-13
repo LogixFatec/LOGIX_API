@@ -50,8 +50,8 @@ Interface do Dashboard
 
 ## Tecnologias Utilizadas
   ### Produto 
- [EXPORTACAO](12TMLH4PQ60uQnVTt6VQxzK_p7RQjX16d)
- [IMPORTACAO](12TMLH4PQ60uQnVTt6VQxzK_p7RQjX16d)
+ [EXPORTACAO](https://photos.fife.usercontent.google.com/pw/ADCreHfZLuiW2upz2dcSEWxsowYSaDs6FfclbXSwJdiSOJ8RAR2yASG4_hg=w1376-h775-s-no-gm?authuser=0)
+ [IMPORTACAO](https://photos.google.com/photo/AF1QipO4_pFQkVM8AWmuswhfK_XTZpJ2gKecOd-r7Sdt)
 
  ### Tecnológias Específicas/Apoio
  > Excel;
