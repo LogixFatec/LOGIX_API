@@ -73,6 +73,7 @@ Apresentação das funcionalidades
 # Backlog do produto
     
 ![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/f4963303-b986-4c59-8a20-48981633d4bf)
+![backlogsprint1](https://github.com/LogixFatec/LOGIX_API/assets/144241887/998d1fb9-b40c-4d3b-aeea-9c4efde4ea6d)
 
 Regras de Negócio
 - 
