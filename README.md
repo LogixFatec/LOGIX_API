@@ -61,7 +61,7 @@ Interface do Dashboard
 > Github;
 >
 - [Apresentação da sprint 0](https://canva.com/design/DAFu_OM8OWU/0_BdT6dktJ2FitG3d8embQ/edit)
-- [Apresentação da sprint 2](https://www.canva.com/design/DAFzqztx_Gc/NDw-zUIgIZ6O7--05WcMsw/edit)
+- [Apresentação da sprint 2](https://www.canva.com/design/DAFzqztx_Gc/NDw-zUIgIZ6O7--05WcMsw/edit?utm_content=DAFzqztx_Gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Jira Software](https://logix0309.atlassian.net)
   
 
