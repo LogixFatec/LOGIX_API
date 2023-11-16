@@ -60,7 +60,8 @@ Interface do Dashboard
 > Jira Software;
 > Github;
 >
-- [Apresentação do sprint 0](https://canva.com/design/DAFu_OM8OWU/0_BdT6dktJ2FitG3d8embQ/edit)
+- [Apresentação da sprint 0](https://canva.com/design/DAFu_OM8OWU/0_BdT6dktJ2FitG3d8embQ/edit)
+- [Apresentação da sprint 2](https://www.canva.com/design/DAFzqztx_Gc/NDw-zUIgIZ6O7--05WcMsw/edit)
 - [Jira Software](https://logix0309.atlassian.net)
   
 
