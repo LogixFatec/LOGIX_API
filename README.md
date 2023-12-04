@@ -81,7 +81,7 @@ Interface do Dashboard
 ![backlogsprint2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/caa8af9b-7d27-4a28-9de9-0d3fb9b12a5a)
 
  ## SPRINT 3
-![burndown sprint 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/e2a079f2-9eb4-469a-8612-827f6ac94209)
+![SPRINT 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/16472e1d-e069-4b1c-a6f5-cc955fbaad8d)
 
 Regras de Negócio
 - 
