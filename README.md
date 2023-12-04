@@ -102,6 +102,7 @@ User stories
 # Burndown
 ![sprint backlog](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5f1a6a0a-b5b4-4a09-bdca-4af6ce37409e)
 ![Burndown 2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5ec690a1-92f8-4d39-8e09-4a068da8aa87)
+![burndown sprint 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/e2a079f2-9eb4-469a-8612-827f6ac94209)
 
 # Sprints
 
