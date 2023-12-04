@@ -42,7 +42,7 @@ Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em d
 
 Interface do Dashboard
 
-![1000150140](https://github.com/LogixFatec/LOGIX_API/assets/144241887/25ac8f0f-e98a-4ffd-9c56-9c46042c77f1)
+![EXPORT](https://github.com/LogixFatec/LOGIX_API/assets/144241887/66ac7ac3-35f6-4a83-82e6-d268be98db93)
 
 # Vídeo Apresentação
 [Vídeo do Dashboard](https://youtu.be/SokmKuw8kY8)
