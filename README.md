@@ -132,9 +132,12 @@ User stories
 - [X] Dashboard
    
 ## Sprint 3 . Implementação
-
-      
-## Sprint 4. Operacionalização
+- [X] Listagem das cidades
+- [X] Revisão do Dashboard
+- [X] Documentações
+- [X] Análise da causa raíz
+- [X] Criação de um storytelling
+- [X] Atualização do Github
 
 
 
@@ -149,12 +152,12 @@ Atendimento ao cliente;
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos |☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| PowerBI | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pacote Office | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Análise de Dados | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Atendimento ao Cliente | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gestão de Projetos |★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| PowerBI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Análise de Dados | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Atendimento ao Cliente | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -169,12 +172,12 @@ Gerenciamento de tempo;
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Trabalho em equipe | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
